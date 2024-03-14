@@ -1,0 +1,7 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "PDSE1-S5-S24-S")(type "KiCad")(uri "${KIPRJMOD}/symbols/PDSE1-S5-S24-S.kicad_sym")(options "")(descr ""))
+  (lib (name "ALM2403QPWPRQ1")(type "KiCad")(uri "${KIPRJMOD}/symbols/ALM2403QPWPRQ1.kicad_sym")(options "")(descr ""))
+  (lib (name "DMN6040SK3-13")(type "KiCad")(uri "${KIPRJMOD}/symbols/DMN6040SK3-13.kicad_sym")(options "")(descr ""))
+  (lib (name "DMP4051LK3-13")(type "KiCad")(uri "${KIPRJMOD}/symbols/DMP4051LK3-13.kicad_sym")(options "")(descr ""))
+)
